@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Why I Started This Blog"
 ---
 
