@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "上海印象"
-categories: 中文
+title: "Shanghai Impression"
+categories: Chinese
 ---
 # 上海印象
 
